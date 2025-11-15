@@ -1,0 +1,5 @@
+{
+  "name": "ZARANDA",
+  "description": "Project Overview: \"Zaranda\" \nProject Subject: FinTech / Decentralized Finance (DeFi) \nMission: To build a non-custodial, low-cost, and instantaneous remittance channel between the US and Mexico, leveraging public blockchain infrastructure to disintermediate expensive, slow-moving traditional financial intermediaries. The \"Elevator Pitch\": We are building a dApp that lets a user in the US send $100 of USDT and have the equivalent in Mexican Pesos (as MXNB) land in their family's wallet in Mexico in under 5 minutes, for a fraction of a penny in fees—all without us ever taking custody of their funds. 🎯 My Core Goals My primary objective isn't just to build a crypto app; it's to solve a real-world problem. The US-Mexico remittance corridor is one of the largest in the world, and it's plagued by high fees (5-10%), slow settlement (3-5 days), and a reliance on custodial services like Western Union or bank wires. ",
+  "requestFramePermissions": []
+}
